@@ -1,0 +1,47 @@
+
+li {
+    padding: 5px;
+    margin: 5px;
+    background: whitesmoke;
+  }
+  
+  .label {
+    font-weight: bold;
+    height:20px;
+  }
+  label{
+      font-weight: bold;
+  }
+  
+  .form-group {
+    margin-bottom: 5px;
+    margin-left: 50px;
+  }
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+   
+}
+h2 {
+    margin-left: 50px;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+#add{
+    margin-left: 50px; 
+    text-align: center; 
+}
+#newBurger{
+    height: 50px;
+    width: 100%;
+}
+.devour{
+    background-color:rgb(211, 164, 61); 
+}
+#list1{
+    margin-top: 20px;
+}
+  
